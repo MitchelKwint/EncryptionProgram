@@ -10,6 +10,7 @@ public class EncryptionProgram {
 	private ArrayList<Character> list;
 	private ArrayList<Character> shuffledList;
 	private char character;
+	private String line;
 	private char[] letters; 
 	
 	EncryptionProgram(){
